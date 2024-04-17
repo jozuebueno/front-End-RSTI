@@ -1,0 +1,20 @@
+h1 {
+color:#333; /*cor do texto*/
+font-family: Arial,sans-serif /*fonte  do texto*/
+}
+p{
+    font-size: 16px;/*tamanho da fornte*/
+    line-height: 1.4;/*espaçamento entre linhas*/
+}
+img{
+    max-width: 100%;/* largura maxima da imagem */
+    height: auto;
+    margin: 20px 0; 
+}
+a{
+color:#0070cc;
+text-decoration:none; /*remover  sublinhado padão*/
+}
+a:hover {
+    text-decoration: underline; /*sublinhado ao passar o mouse*/
+}
