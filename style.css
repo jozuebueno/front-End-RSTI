@@ -1,15 +1,24 @@
 body{
-    background-color: lightgoldenrodyellow;
-    color: chocolate
+    background-color: rgb(189, 189, 127);
+    color: rgb(37, 10, 158)
     font-size 12pt;
     font-family: Arial;
 }
 
 h1{
-    color: brown;
+    color: rgb(209, 102, 83);
 }
 
 a{
-    color: brown;
+    color: rgb(4, 150, 70);
     text-decoration: none;
+}
+p{
+    color:rgb(22, 8, 219)
+    font-size 56pt;
+    
+}
+
+h2{
+    color: rgb(58, 29, 139);
 }
